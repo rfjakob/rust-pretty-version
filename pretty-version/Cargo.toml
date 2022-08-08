@@ -1,0 +1,9 @@
+[package]
+name = "pretty-version"
+version = "0.1.0"
+authors = ["Jakob Unterwurzacher <jakobunt@gmail.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+git-version = "0.3.5"
